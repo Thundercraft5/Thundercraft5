@@ -21,7 +21,7 @@ I've worked with CSS, JS, and HTML so far with some niche experience in Lua. I'm
 - [`@thundercraft5/tsconfig`](https://github.com/Thundercraft5/@thundercraft5/tsconfig)
 - [`@thundercraft5/weak-utils`](https://github.com/Thundercraft5/@thundercraft5/weak-utils)
 
-### Areas of interest
+### Technical Areas of interest
 - [Fully Homomorphic Encryption](https://fhe.org)
 - FOSS Software
 - DX & UX
@@ -29,3 +29,4 @@ I've worked with CSS, JS, and HTML so far with some niche experience in Lua. I'm
 - Rust, C#, C++
 - Middleware
 - Privacy, Security, and Cryptography
+- Philsophy of Technology, AI, and Mathematics
